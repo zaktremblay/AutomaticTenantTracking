@@ -1,6 +1,6 @@
 # AutomaticBudgetGoogleSheets
 
-This automatic budget sheet has been done to track and verify tenant payments and expenses for a real estate renting business that I plan on having. Around 70% of the programming has been done with Google Sheets' dynamic functions, which update automatically without the need for the press of a button like an Excel macro would. 25% of the programming uses Python, which uses the mintapi library, used to scrape mint with transaction data, and the g2spread library, used to input the data into the google sheet that holds the interface. The remaining 5% is the maintenance of the link between the Python code written and the google sheet, which is performed by enabling google sheet's API from the Google Cloud Platform. The only parts of the program that require manual input are the tenant details.
+This automatic budget sheet has been done to track and verify tenant payments and expenses for a real estate renting business that I plan on having. Around 70% of the programming has been done with Google Sheets' dynamic functions, which update automatically without the need for the press of a button like an Excel macro would. 25% of the programming uses Python, which uses the mintapi library, used to scrape mint with transaction data, and the g2spread library, used to input the data into the google sheet that holds the interface. The remaining 5% is the maintenance of the link between the Python code written and the google sheet, which is performed by enabling google sheet's API from the Google Cloud Platform. The only parts of the program that require manual input are the tenant details. To refresh the data, I run the python script periodically. This process is soon to be automated as well.
 
 ---
 This project holds features such as:
@@ -22,3 +22,4 @@ Here is a list of features yet to add:
 - A net worth over time calculator
 - A cash reserves over time calculator
 - A redundancy for importing data using BudgetSheets (Google Sheets add-on)
+- Automatic periodic run of the Python script to refresh the data

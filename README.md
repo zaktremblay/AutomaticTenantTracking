@@ -12,7 +12,12 @@ This project holds features such as:
 - Marketing details graphics
 ---
 The point of the entire project was to have a reliable interface on which to see all of the accounting details of the tenant stays. It would also be useful to have it be as automatic as possible in order to facilitate the management of new tenants and tenant archives.
-For example, here is the interface for the unit occupancy:
+For example, here is the interface for the unit occupancy, where each color has a different meaning (Orange:Late, Yellow:Double-booked, Dark-Green:Payday, etc...):
 ![Image](Capture.JPG)
-here is an example of the graphics:
-![Image](https://drive.google.com/file/d/1NyP9X3oBb7yiPekCJRAADNsERWBQL1E8/view?usp=sharing)
+Here is an example of the graphics:
+![Image](Capture2.JPG)
+---
+Here is a list of features yet to add:
+- A net worth over time calculator
+- A cash reserves over time calculator
+- A redundancy for importing data using BudgetSheets (Google Sheets add-on)

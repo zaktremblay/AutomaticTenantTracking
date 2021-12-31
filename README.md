@@ -16,6 +16,7 @@ For example, here is the interface for the unit occupancy, where each color has 
 ![Image](Capture.JPG)
 Here is an example of the graphics:
 ![Image](Capture2.JPG)
+
 ---
 Here is a list of features yet to add:
 - A net worth over time calculator

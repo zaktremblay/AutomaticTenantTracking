@@ -13,6 +13,6 @@ This project holds features such as:
 ---
 The point of the entire project was to have a reliable interface on which to see all of the accounting details of the tenant stays. It would also be useful to have it be as automatic as possible in order to facilitate the management of new tenants and tenant archives.
 For example, here is the interface for the unit occupancy:
-![Image](https://drive.google.com/file/d/1S2kEIo7GKq-v4mCUU0xmz8UQ7hFN6ghb/view?usp=sharing)
+![Image](Capture.png)
 here is an example of the graphics:
 ![Image](https://drive.google.com/file/d/1NyP9X3oBb7yiPekCJRAADNsERWBQL1E8/view?usp=sharing)

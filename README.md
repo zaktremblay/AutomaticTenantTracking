@@ -13,9 +13,9 @@ This project holds features such as:
 ---
 The point of the entire project was to have a reliable interface on which to see all of the accounting details of the tenant stays. It would also be useful to have it be as automatic as possible in order to facilitate the management of new tenants and tenant archives.
 For example, here is the interface for the unit occupancy, where each color has a different meaning (Orange:Late, Yellow:Double-booked, Dark-Green:Payday, etc...):
-![Image](Capture.JPG)
+![Image](captures/Capture.JPG)
 Here is an example of the graphics:
-![Image](Capture2.JPG)
+![Image](captures/Capture2.JPG)
 
 ---
 Here is a list of features yet to add:
